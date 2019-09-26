@@ -5,5 +5,5 @@ def map(array)
   while i < array.length do 
   i * -1
   i += 1
-end
+  end
 end
