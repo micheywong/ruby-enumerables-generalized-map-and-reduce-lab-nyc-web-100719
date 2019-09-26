@@ -1,6 +1,8 @@
 # Your Code Here'
 def map(array)
   new = [ ]
-  array.map do |n|
+  i = 0
+  while i < array.map do |n|
   n * -1
+  i += 1
 end
